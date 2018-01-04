@@ -1,6 +1,4 @@
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/siWgAciQehZbF4oNcgaM2HS9/kurron/docker-intellij'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/siWgAciQehZbF4oNcgaM2HS9/kurron/docker-intellij.svg' />
-</a>
+
 
 # Overview
 This project is a simple Docker image that runs [JetBrains IntelliJ IDE](http://www.jetbrains.com/).
